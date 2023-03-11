@@ -1,1 +1,1 @@
-# my_template
+# My ICPC Template
